@@ -1,0 +1,15 @@
+{
+	"cars": [
+		{
+			"carName": "2022 Mazda BT-50 XS",
+			"engineOne": "1.9DT Diesel 6 sp Automatic 4x4",
+			"engineTwo": "1.9DT Diesel 6sp Automatic RWD",
+			"price": "$46,574",
+			"doors": "2 doors | 4 doors",
+			"seats": "2 seats | 5 seats",
+			"airbags": "8 airbags",
+			"description": "TFR40J XS Utility Dual Cab 4dr Spts Auto 6sp 4x2 1135kg 1.9DT Not uncommonly in the workhorse ute segment, allegiances change with Mazda's BT-50 workhorse, once shared with Ford's Ranger but now virtually a re-badged Isuzu D-MAX. The third-generation BT-50 is available in ute and cab-chassis form, comes with higher levels of safety and economical 140kW/450Nm 3.0-litre and 110kW/350Nm 1.9-litre four-cylinder turbo-diesels available in rear-drive and dual-range 4x4 form and driving through six-speed manual or automatic gearboxes. Emergency braking, attention assist, automatic high beam, blind spot monitor, emergency lane keeping, lane departure warning, lane departure prevention, rear cross traffic alert, roll over protection, secondary collision reduction and eight airbags including a front centre airbag, are standard. Towing capacity continues at 3.5 tonnes.",
+			"id": "0"
+		}
+	]
+}
