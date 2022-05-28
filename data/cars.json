@@ -1,7 +1,7 @@
 {
 	"cars": [
 		{
-			"carName": "2022 Mazda BT-50 XS",
+			"carName": "Mazda BT-50 XS",
 			"engineOne": "1.9DT Diesel 6 sp Automatic 4x4",
 			"engineTwo": "1.9DT Diesel 6sp Automatic RWD",
 			"price": "$46,574",
@@ -9,7 +9,164 @@
 			"seats": "2 seats | 5 seats",
 			"airbags": "8 airbags",
 			"description": "TFR40J XS Utility Dual Cab 4dr Spts Auto 6sp 4x2 1135kg 1.9DT Not uncommonly in the workhorse ute segment, allegiances change with Mazda's BT-50 workhorse, once shared with Ford's Ranger but now virtually a re-badged Isuzu D-MAX. The third-generation BT-50 is available in ute and cab-chassis form, comes with higher levels of safety and economical 140kW/450Nm 3.0-litre and 110kW/350Nm 1.9-litre four-cylinder turbo-diesels available in rear-drive and dual-range 4x4 form and driving through six-speed manual or automatic gearboxes. Emergency braking, attention assist, automatic high beam, blind spot monitor, emergency lane keeping, lane departure warning, lane departure prevention, rear cross traffic alert, roll over protection, secondary collision reduction and eight airbags including a front centre airbag, are standard. Towing capacity continues at 3.5 tonnes.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/ach4vyotucs0u8h7z12ctg3lc.jpg?width=1200&height=600&watermark=46677223",
 			"id": "0"
+		},
+		{
+			"carName": "Isuzu D-MAX",
+			"engineOne": "3.0DT Diesel 6 sp Manual RWD",
+			"engineTwo": "3.0DT Diesel 6 sp Automatic RWD",
+			"price": "$48,332",
+			"doors": "2 doors | 4 doors",
+			"seats": "2 seats | 5 seats",
+			"airbags": "8 airbags",
+			"description": "RG MY22 SX High Ride Utility Crew Cab 4dr Spts Auto 6sp 4x2 1055kg 3.0DT The Isuzu D-MAX range revealed a new identity when the third generation arrived in late 2020 with a new engine and transmission, improved safety credentials and a stronger chassis. Four trim grades extend from base SX to mid-range LS-M and LS-U to the flagship X-Terrain. There are 42 and 44 drivelines in three body styles : single cab, space cab, and crew cab. Shorter overall, the D-MAX load bay is larger in both ute and cab-chassis variants. A quieter, smoother 140kW/450Nm 3.0-litre four-cylinder turbo-diesel mates with either six-speed manual six-speed automatic transmission, while safety technology includes AEB, adaptive cruise control, lane-departure warning with lane-keep assist, blind-spot monitoring and rear cross-traffic alert.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/xhd8y32l4i32j3s9vw83qd7z1.jpg?width=1200&height=600&watermark=630661126",
+			"id": "1"
+		},
+		{
+			"carName": "Hyundai Palisade",
+			"engineOne": "3.8i Petrol 8 sp Automatic FWD",
+			"engineTwo": "2.2DT Diesel 8 sp Automatic 4x4",
+			"price": "$60,650",
+			"doors": "5 doors",
+			"seats": "8 seats",
+			"airbags": "6 airbags",
+			"description": "LX2.V2 MY22 Wagon 8st 5dr Spts Auto 8sp 2WD 3.8i Offering seven or eight-seat accommodation, Hyundai's massive Palisade SUV competes with Toyota Kluger, Nissan Pathfinder and Mazda CX-9. Based on a stretched Santa Fe platform, the Palisade is powered by either a front-drive 217kW/355Nm 3.8-litre petrol V6 or an AWD 147kW/440Nm 2.2-litre four-cylinder turbo-diesel both driving through an eight-speed automatic transmission. The base Palisade features autonomous emergency braking with car, pedestrian and cyclist detection, 12-speaker Infinity audio, sat-nav, adaptive cruise control and lane-keep and lane-following assist, while the flagship Highlander gets 20-inch alloy wheels, LED headlights, Nappa leather upholstery, heated and ventilated front and second row seats, a dual-pane sunroof and a hands-free powered tailgate.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/frtj3imkaoq4m6vn7jmtitere.jpg?width=1200&height=600&watermark=1454649086",
+			"id": "2"
+		},
+		{
+			"carName": "Mazda CX-5",
+			"engineOne": "2.0i Petrol 6 sp Automatic FWD",
+			"engineTwo": "2.0i Petrol 6 sp Manual FWD",
+			"price": "$36,406",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "6 airbags",
+			"description": "The CX-5 sees a few changes for 2022. Modifications include redesigned front seats, as well as refreshed styling. Also, all-wheel drive joins the standard features list, the 2.5 Turbo trim replaces the Grand Touring Reserve, and the turbocharged 2.5-liter engine gains 6 horsepower.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/bqfxdu1v8estgs1emf1todx11.jpg?width=1200&height=600&watermark=1660103205",
+			"id": "3"
+		},
+		{
+			"carName": "Hyundai Kona",
+			"engineOne": "2.0i Petrol 8 sp Automatic FWD",
+			"engineTwo": "2.0i Petrol 8 sp Manual FWD",
+			"price": "$29,490",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "6 airbags",
+			"description": "OS.V4 MY22 Wagon 5dr CVT 8sp 2WD 452kg 2.0i Voted by carsales as Australia's best small SUV for 2021, Hyundai's Kona SUV is available with either normally-aspirated or turbo petrol engines, in front-drive or AWD, or as a pure electric vehicle. The Kona Electric is offered in Elite and Highlander form and promises a range of 449km with a top speed of 167km/h via its front-drive 150kW/395Nm electric motor. Charging time varies from 54 minutes for an 80 per cent charge at a 100kW fast charger to 28 hours using 240-volt AC power. The Kona Electric is impressive on the road but loses about 30 litres of boot capacity which nevertheless remains acceptable at 332 litres.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/snbqevnkift4g4rnztrozwpy.jpg?width=1200&height=600&watermark=2088573216",
+			"id": "4"
+		},
+		{
+			"carName": "Volkswagen T-Cross",
+			"engineOne": "1.0T Petrol 7 sp Automatic FWD",
+			"engineTwo": "1.0T Petrol 7 sp Manual FWD",
+			"price": "$35,532",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "6 airbags",
+			"description": "The VW T-Cross is a small SUV that’s surprisingly spacious inside, and is equally generous with the amount of standard kit it comes with. So, as an easy-to-drive and practical family car with a high seating position, the VW T-Cross makes a great choice.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/sf29iqyvhtm49u0uqia0r1gt6.jpg?width=1200&height=600&watermark=1855293702",
+			"id": "5"
+		},
+		{
+			"carName": "Mazda 3",
+			"engineOne": "2.0i Petrol 6 sp Automatic FWD",
+			"engineTwo": "2.0i Petrol 6 sp Manual FWD",
+			"price": "$30,312",
+			"doors": "4 doors | 5 doors",
+			"seats": "5 seats",
+			"airbags": "7 airbags",
+			"description": "BP2H76 G20 Pure Hatchback 5dr SKYACTIV-MT 6sp 2.0i As either a hatchback or a sedan, the Mazda3's mix of quality, style, refinement and capabilities nudges the small prestige segment. The quality and design of the interior is exceptional and sat-nav, Apple CarPLay/Android Auto, electric parking brake and intuitive control functions are all standard. The front-drive Mazda is available with the choice of two Skyactiv-G four-cylinder petrol engines a 114kW/200Nm 2.0-litre and a 138kW/252Nm 2.5-litre and a 2.0-litre 132kW/224Nm mild hybrid. Regular versions offer six-speed manual or auto transmissions. The range comprises Pure, Evolve, Touring, GT and Astina spec levels, all equipped with standard front and rear autonomous emergency braking, pedestrian detection, lane-keep assist and rear cross-traffic alert.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/05u3d5b5pwpu1d3i79cok02y2.jpg?width=1200&height=600&watermark=632396338",
+			"id": "6"
+		},
+		{
+			"carName": "Hyundai Santa Fe",
+			"engineOne": "2.2DT Diesel 8 sp Automatic 4x4",
+			"engineTwo": "3.5i Petrol 8 sp Automatic FWD",
+			"price": "$50,080",
+			"doors": "5 doors",
+			"seats": "7 seats",
+			"airbags": "7 airbags",
+			"description": "TM.V3 MY22 Wagon 7st 5dr Spts Auto 8sp 3.5i Hyundai's seven-seat Santa Fe SUV is a large family hauler close in size to key rivals like the Mazda CX-9 and Toyota Kluger. With a choice between a 206kW/336Nm 3.5-litre V6 petrol or a 147kW/440Nm 2.2-litre turbo-diesel four, the Santa Fe range is available in front-drive or AWD form and offers an upmarket interior and extensive equipment levels. Autonomous emergency braking with pedestrian and cyclist detection, active cruise control with stop and go, blind-spot monitoring, rear cross-traffic avoidance assistance, driver attention warning, high-beam assist and lane-keep assist are standard across the range. Sealing the deal is a five-year, unlimited-kilometre warranty with a standard 12 months of roadside assistance.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/b8ax67bcgio9lxuowe6pm3lt.jpg?width=1200&height=600&watermark=281937207",
+			"id": "7"
+		},
+		{
+			"carName": "MG MG3 Core",
+			"engineOne": "1.5i Petrol 4 sp Automatic FWD",
+			"engineTwo": "1.5i Petrol 4 sp Manual FWD",
+			"price": "$18,490",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "6 airbags",
+			"description": "SZP1 MY21 Core Hatchback 5dr Auto 4sp 1.5i Competing with Toyota Yaris, Kia Rio and Suzuki Swift, the Chinese MG3 hatch dominated the Australian light-car market in 2020. Available in Core, S Limited and Excite form, the five-door MG3 comes with standard four-speed auto-transmission, cruise control, air-conditioning (climate control in Excite), Bluetooth, Apple CarPlay, an eight-inch colour touch-screen (with sat-nav from Nav-spec Core upwards), front and rear parking sensors and alloy wheels (15-inch in Core, 16-inch in Excite). The 82kW/150Nm 1.5-litre engine claims 6.7L/100km fuel economy. There's an exceptional seven-year, unlimited-kilometre warranty but, reflecting the lack of electronic safety aids such as autonomous emergency braking and pedestrian avoidance, the MG3 gets a three-star ANCAP safety rating.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/97y9u26sef4nxr2m8t8xsrm11.jpg?width=1200&height=600&watermark=994021537",
+			"id": "8"
+		},
+		{
+			"carName": "Volkswagen Touareg",
+			"engineOne": "3.0DT Diesel 8 sp Automatic 4x4",
+			"engineTwo": "3.0DT Diesel 8 sp Manual 4x4",
+			"price": "$93,715",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "8 airbags",
+			"description": "The Volkswagen Touareg may not have quite the badge cachet of the Audi Q7 and Mercedes GLE, but nevertheless, it’s a big, spacious, high-tech rival that’s also comparatively affordable.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/vzh7zwc3ncvyjdnlrckf37og5.jpg?width=1200&height=600&watermark=1191611679",
+			"id": "9"
+		},
+		{
+			"carName": "Suzuki Vitara",
+			"engineOne": "1.6i Petrol 5 sp Manual FWD",
+			"engineTwo": "1.6i Petrol 6 sp Automatic FWD",
+			"price": "$28,990",
+			"doors": "5 doors",
+			"seats": "5 seats",
+			"airbags": "7 airbags",
+			"description": "A companion up for all endeavours: Befriend a multi-purpose performer embracing the most challenging surfaces and weather conditions. Powered by efficient strong hybrid system and 48V SHVS mild hybrid system. Equipped with ALLGRIP SELECT. Fuelled by the authentic Suzuki SUV-genes: effortless joy behind the wheel enhanced by maximum grip at all times.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/brvehmy181w3gizgzo34cfu3a.jpg?width=1200&height=600&watermark=1388743342",
+			"id": "10"
+		},
+		{
+			"carName": "Nissan Navara",
+			"engineOne": "2.3DTT Diesel 7 sp Automatic 4x4",
+			"engineTwo": "2.3DTT Diesel 6 sp Manual 4x4",
+			"price": "$43,402",
+			"doors": "2 doors | 4 doors",
+			"seats": "2 seats | 4 seats | 5 seats",
+			"airbags": "7 airbags",
+			"description": "Meet the 2022 Nissan Navara Pro-4X Warrior, the hardcore off-road version of the recently updated Navara ute range. As with its predecessor, the Nissan Navara N-Trek Warrior released in 2019, the Pro-4X Warrior comes with locally engineered upgrades fitted to vehicles in a final assembly facility in Melbourne – after the donor vehicle is shipped from Thailand, and before the final product is trucked to Nissan dealerships across the country.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/z2a2sqqjjko4y673axv4kfhj4.jpg?width=1200&height=600&watermark=531237835",
+			"id": "11"
+		},
+		{
+			"carName": "Mazda MX-5",
+			"engineOne": "2.0i Petrol 6 sp Manual RWD",
+			"engineTwo": "2.0i Petrol 6 sp Automatic RWD",
+			"price": "$46,727",
+			"doors": "2 doors",
+			"seats": "2 seats",
+			"airbags": "4 airbags",
+			"description": "ND RF 2dr SKYACTIV-MT 6sp 2.0i Mazda has shown remarkable restraint sticking with the fundamentals that formed the original MX-5 back in 1989. The now-iconic two-seat sports soft-top/RF folding hardtop (the latter now accounting for 64 per cent of sales) sticks to the traditional minimalist formula, to good effect. The MX-5 is as unmistakable and engaging as ever. The 135kW/205Nm 2.0-litre engine comes with the choice of six-speed manual or auto transmission, while the newly-improved, more predictable handling continues the scintillating behind-the-wheel experience. Autonomous emergency braking, blind-spot monitoring, rear cross-traffic alert and traffic sign recognition help keep the MX-5 up to speed in safety technology.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/mml2uism0lbo3o0fk7pfteydc.jpg?width=1200&height=600&watermark=1427419683",
+			"id": "12"
+		},
+		{
+			"carName": "Ford Ranger",
+			"engineOne": "2.2DT Diesel 6 sp Automatic RWD",
+			"engineTwo": "2.2DT Diesel 6 sp Manual RWD",
+			"price": "$44,825",
+			"doors": "2 doors | 4 doors",
+			"seats": "2 seats | 4 seats | 5 seats",
+			"airbags": "6 airbags",
+			"description": "PX MkIII 2021.75MY XL Hi-Rider Pick-up Double Cab 4dr Spts Auto 6sp 4x2 1230kg 2.2DT On the eve of its replacement, Ford's highly successful Ranger lineup comprises two-door, four-door super and double-cab cab-chassis/ute variants. Engines include a 118kW/385Nm 2.2-litre turbo-diesel, a 147kW/470Nm 3.2-litre five-cylinder turbo-diesel and a 157kW/500Nnm 2.0-litre bi-turbo diesel. Rear-drive, or dual-range 4x4 drivelines are available, along with six-speed manual, and six or 10-speed auto gearboxes. With autonomous emergency braking and Ford's SYNC3 touch-screen system standard, the five-star ANCAP Ranger lineup begins with a two-passenger 4x2 XL-spec cab-chassis and tops out with the Raptor 4x4 double-cab ute. Here, leather/suede powered and heated sports front seats, sat-nav, lane-keep assist and BF Goodrich all-terrain tyres are standard. The Ranger is rated to tow 3.5 tonnes.",
+			"imgurl": "https://carsales.pxcrush.net/car/cil/6gqbkm4x6p32jracrqj263fv8.jpg?width=1200&height=600&watermark=2057930428",
+			"id": "13"
 		}
 	]
 }
